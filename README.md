@@ -37,15 +37,7 @@ A **modern task management app** built with **Flutter** and **Provider**, design
 
 ### 6. Persistent Input State
 - Typed but unsaved input **remains in the form** if the user navigates away and returns.
-
----
-
-## **Screenshots**
-
-
-
----
-
+- 
 ## **Tech Stack**
 
 - **Flutter** – Frontend framework
