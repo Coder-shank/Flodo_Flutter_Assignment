@@ -44,6 +44,11 @@ A **modern task management app** built with **Flutter** and **Provider**, design
 - **Provider** – State management
 - **Dart** – Programming language
 
+  ## Screenshots:
+  https://docs.google.com/document/d/1jh6QDbu4bijFkZMKUOI-dFR6GqIeeE7ceeWw_d4ZSmU/edit?tab=t.0
+    
+  
+
 
 ## **Getting Started**
 
