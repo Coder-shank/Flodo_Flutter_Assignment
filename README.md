@@ -72,7 +72,56 @@ flutter pub get
 4.Run the app
 
 ```bash
-flutter run  
+flutter run
+
+
+** I choosed Track-B  **
+
+**AI Usage Report – ChatGPT
+
+Date: April 3, 2026
+User: Shashank Pandey
+
+Summary
+
+Today, AI assistance was extensively utilized to support Flutter development, task management app debugging, and feature implementation. The interaction primarily focused on code review, bug fixing, and enhancing app functionality for better UX and reliability.
+
+Areas of Usage
+1. Flutter Task Management App
+Debugging main.dart:
+Fixed null-safety issues and type mismatches.
+Implemented proper async handling for task creation and updates.
+Ensured UI does not freeze during operations by adding loading states.
+Task Reordering & Filtering:
+Added functionality to reorder tasks via ReorderableListView.
+Implemented search and filter features for task lists.
+Task Form Enhancements:
+Added "Blocked By" option with correct handling of None values.
+Simulated 2-second delay for adding/editing tasks with button loading states.
+Maintained draft input values when the user navigates away.
+UI Improvements:
+Ensured blocked tasks display with opacity changes.
+Improved task card design and due date formatting.
+2. Code Quality & Best Practices
+Applied null safety for all fields and dropdowns.
+Avoided UI freezes using Future.delayed for asynchronous operations.
+Ensured automatic state persistence using AutomaticKeepAliveClientMixin.
+Structured the code for maintainability with reusable widgets like taskCard and showEditDialog.
+3. Learning and Documentation
+Learned proper handling of nullable fields in Dart.
+Learned to simulate async operations without freezing Flutter UI.
+Documented AI-assisted development workflow to enhance project README.
+Tools Used
+ChatGPT (GPT-5 Mini): Assisted in debugging, code review, and feature implementation.
+Flutter & Dart: Mobile app development.
+Provider: State management for task app.
+Outcomes
+Fully functional task management app with task creation, editing, deletion, filtering, search, and reordering.
+Improved user experience with loading states and blocked task handling.
+Enhanced code quality, null safety, and maintainability.
+
+
+
 
 
 
