@@ -67,3 +67,21 @@ A **modern task management app** built with **Flutter** and **Provider**, design
 
 ```bash
 gh repo clone Coder-shank/Flodo_Flutter_Assignment
+
+2. Navigate into the project folder:
+
+```bash
+cd flutter-task-manager
+
+3.Get dependencies
+
+```bash
+flutter pub get
+
+4.Run the app
+
+```bash
+flutter run  
+
+
+
