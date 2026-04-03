@@ -42,7 +42,7 @@ A **modern task management app** built with **Flutter** and **Provider**, design
 
 ## **Screenshots**
 
-*(Optional: Add screenshots of your app running on a device to show the interface.)*
+
 
 ---
 
@@ -66,4 +66,4 @@ A **modern task management app** built with **Flutter** and **Provider**, design
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/<REPO_NAME>.git
+gh repo clone Coder-shank/Flodo_Flutter_Assignment
