@@ -44,7 +44,6 @@ A **modern task management app** built with **Flutter** and **Provider**, design
 - **Provider** – State management
 - **Dart** – Programming language
 
----
 
 ## **Getting Started**
 
